@@ -10,15 +10,18 @@
       "value": "ANYTHING"
     },
     "BOT_TOKEN": {
-      "description": "Get it from @BotFather"
+      "description": "5371384155:AAGg-TVi6zxRikkqTIHIv0GpBLMHhYu8dWQ"
     },
     "APP_ID": {
-      "description": "Your API_ID, Get it from https://my.telegram.org/apps"
+      "description": "2564762"
     },
     "API_HASH": {
-      "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
-    },
-    "SUDO_USERS": {
+      "description": "41bcd4f129eb688c743bd17a7ee5926f"
+     }, 
+     "DATABASE_URL" : {
+      "description" : "postgres://pgyfltrchuodbn:9512c6f6045ab755a21c70c30c80097116f7a2501ea7c49d48cc0d22d8059502@ec2-3-219-52-220.compute-1.amazonaws.com:5432/d824ikvs0tsilr"
+     }, 
+       "SUDO_USERS": {
       "description": "List of sudo users ids, seperated by space.",
       "value": "999197022 939425014"
     },
